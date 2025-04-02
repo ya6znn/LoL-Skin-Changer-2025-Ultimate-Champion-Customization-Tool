@@ -30,10 +30,14 @@ jobs:
           echo '  </url>' >> sitemap.xml
           echo '</urlset>' >> sitemap.xml
 
+      - name: Pull latest changes from remote repository
+        run: |
+          git pull origin main
+
       - name: Commit and push changes
         run: |
           git config --global user.name "LoL Skin Changer 2025"
           git config --global user.email "lol-skins@github.com"
           git add README.md sitemap.xml
           git commit -m "Update: Updated README and Sitemap"
-          git push
+          git push origin main
