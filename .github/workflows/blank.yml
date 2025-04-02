@@ -11,6 +11,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
+      - name: Remove old "Last update" line from README
+        run: |
+          sed -i '/**Last update:**/d' README.md
+
       - name: Update README with Timestamp
         run: |
           echo -e "\n**Last update:** $(date '+%Y-%m-%d %H:%M:%S')" >> README.md
