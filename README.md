@@ -169,6 +169,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) f
 
 ### 🌟 Don't forget to star the repo if you find it useful! ⭐
 
-Last update: 4/2/2025
-
 **Last update:** 2025-04-02 09:40:38
