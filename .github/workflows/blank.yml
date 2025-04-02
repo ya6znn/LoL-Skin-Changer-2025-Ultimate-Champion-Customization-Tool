@@ -13,7 +13,7 @@ jobs:
 
       - name: Remove old "Last update" line from README
         run: |
-          sed -i '/**Last update:**/d' README.md
+          sed -i '/\*\*Last update:\*\*/d' README.md
 
       - name: Update README with Timestamp
         run: |
